@@ -1,7 +1,10 @@
 # Ping-Pong App
 
 Веб-приложение на Flask, которое отвечает на `/ping` сообщением из переменной окружения.
+
 [app.py](https://github.com/Stepanova-Anna/PIT-3/blob/main/Ping-Pong/app.py)
+
+[docker-compose.yml](https://github.com/Stepanova-Anna/PIT-3/blob/main/Ping-Pong/docker-compose.yml)
 
 ## Запуск
 
