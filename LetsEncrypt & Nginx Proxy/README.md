@@ -3,7 +3,7 @@ DNS-записи
 
 <img width="1403" height="179" alt="image" src="https://github.com/user-attachments/assets/85e30b1f-d488-4fd1-846a-1a0beb48a2e2" />
 
-(Файл docker-compose.yml)[https://github.com/Stepanova-Anna/PIT-3/blob/main/LetsEncrypt%20%26%20Nginx%20Proxy/docker-compose.yml]
+[Файл docker-compose.yml](https://github.com/Stepanova-Anna/PIT-3/blob/main/LetsEncrypt%20%26%20Nginx%20Proxy/docker-compose.yml)
 
 Запущенные контейнеры
 
